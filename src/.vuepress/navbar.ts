@@ -45,8 +45,8 @@ export default navbar([
     ],
   },
   {
-    text: "V2 文档",
+    text: "打开邮箱",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "https://mail.qq.com/cgi-bin/frame_html?sid=HSKjpdPn2iXqoidB&r=421239e5d1cb22a287cdf8d99d16b8c2&lang=zh",
   },
 ]);
