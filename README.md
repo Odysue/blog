@@ -1,2 +1,0 @@
-# blog
-Pika_blog
